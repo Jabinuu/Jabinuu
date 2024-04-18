@@ -16,7 +16,7 @@
 + 💬 Jabin1103941
 + 📝 [我的博客](https://mongobin.top/)
 
-### 🛠 技术栈 | Tech Stack  <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=Jabinuu&show_icons=true&theme=tokyonight" />
+### 🛠 技术栈 | Tech Stack  
 
 - 💻 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -32,3 +32,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 [<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabinuu&layout=compact&theme=tokyonight" alt="Top Langs" style="zoom:120%;" />](https://github.com/anuraghazra/github-readme-stats)
+
+<img width="50%" align="left" height="auto" src="https://github-readme-stats.vercel.app/api?username=Jabinuu&show_icons=true&theme=tokyonight" />
