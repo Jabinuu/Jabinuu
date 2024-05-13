@@ -4,7 +4,7 @@
 
 - 我是 Jabin，就读于厦门某大学的25届硕士研究生，本科毕业于宁波工程学院，对软件开发非常感兴趣，想成为一名能够独当一面的前端工程师🤩
 - 💻 2024.03 ~ 2024.05  在 [@didi](https://github.com/didi) 实习，方向是前端 / 移动端的 Hybrid 混合开发
-- 2024.05 ~ 至今 在[@tencent](https://github.com/Tencent) 实习
+- 💻 2024.05 ~ 至今 在[@Tencent](https://github.com/Tencent) 实习
 - 💡 开源经历
   - 负责 [brainmap](https://github.com/Jabinuu/brain-map)
   - 参与 [yike-design](https://github.com/ecaps1038/yike-design-dev)
