@@ -6,7 +6,7 @@
 - 💻 2024.03 ~ 2024.05  在 [@didi](https://github.com/didi) 实习，方向是前端 / 移动端的 Hybrid 混合开发
 - 💻 2024.05 ~ 至今 在[@Tencent](https://github.com/Tencent) 实习
 - 💡 开源经历
-  - 负责 [brainmap](https://github.com/Jabinuu/brain-map)
+  - 负责 [XbrainMap](https://github.com/Jabinuu/XBrain-map)
   - 参与 [yike-design](https://github.com/ecaps1038/yike-design-dev)
 
 
